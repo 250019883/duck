@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`N,ey@%n?ON25L4(}v9l">myImage</variable></variables><block type="device_forever" id="X8PU2OVgn3}~yk[?_^op" x="0" y="0"><statement name="HANDLER"><block type="device_scroll_image" id="q#LW5.nEH`V,C3`^?Mci"><value name="sprite"><block type="device_build_big_image" id=").v#9/eP^#)J@,7$rqI;"><field name="LEDS">`
+        . . # # # . . . . . 
+        . # # # # . . . . . 
+        . . . . # # # # . . 
+        . . . . # # # . . . 
+        . . . . # . # . . .
+        `</field></block></value><value name="frameoffset"><shadow type="math_number" id=":.FHY*%ZW2)?XE!tmSF0"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id="whxMjddL}PIt!2[.5.$d"><field name="NUM">200</field></shadow></value></block></statement></block></xml>
